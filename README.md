@@ -539,4 +539,4 @@ npm install react-native-video –save
 https://github.com/crazycodeboy/react-native-easy-toast?utm_source=tuicool&utm_medium=referral
 
 
-原作者地址：https://www.cnblogs.com/piaobodewu/p/9939334.html
+# 原作者地址：https://www.cnblogs.com/piaobodewu/p/9939334.html
