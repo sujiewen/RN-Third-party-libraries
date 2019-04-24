@@ -1,4 +1,4 @@
-# React-Native-
+# RN-Third-party-libraries
 React Native 常用第三方组件(转)，发布这里只要怕忘记
 
 React Native 常用第三方组件
